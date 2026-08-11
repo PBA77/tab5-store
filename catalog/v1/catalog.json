@@ -1,0 +1,42 @@
+{
+  "schema": 1,
+  "sequence": 2,
+  "target": "m5stack-tab5-p4",
+  "layout": "tab5-16m-v1",
+  "launcher_api": 1,
+  "apps": [
+    {
+      "id": "megu-recorder",
+      "name": "MeGu Recorder",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/PBA77/tab5-store/main/roms/megu-recorder/1.0.0.bin.enc",
+      "encryption": "esp-encrypted-img-rsa-v1",
+      "download_size": 2039376,
+      "download_sha256": "b7ec1416e77fb4167426fca581897261076c57c395b429a89b101b2d1bf07d52",
+      "image_size": 2038864,
+      "image_sha256": "c65c5bf2c85ddc27ec4d731b1fa81df7cccba0e73e45ad059aa72886b498b7ff"
+    },
+    {
+      "id": "synth-sequencer",
+      "name": "Synth Tracker",
+      "version": "3.0.0",
+      "url": "https://raw.githubusercontent.com/PBA77/tab5-store/main/roms/synth-sequencer/3.0.0.bin.enc",
+      "encryption": "esp-encrypted-img-rsa-v1",
+      "download_size": 650384,
+      "download_sha256": "75e559db270b92611ac1ac0a2732c1ff3b2cf4b45dfcf01c331ec3f2e014d080",
+      "image_size": 649872,
+      "image_sha256": "0050e080cdba93b000738d1bc591eb865cae2152db6897441df13dea0497a5f2"
+    },
+    {
+      "id": "display-test",
+      "name": "LVGL Display Test",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/PBA77/tab5-store/main/roms/display-test/1.0.0.bin.enc",
+      "encryption": "esp-encrypted-img-rsa-v1",
+      "download_size": 820048,
+      "download_sha256": "0779a7bc646ddf7b850c873482a7b6b3a447914b9bc243bdb88aa20b1be67c64",
+      "image_size": 819536,
+      "image_sha256": "9204a7b08cd6f5456aa915f439c0492eb10bf7c24f4c68421063d8ee7a9bcf6e"
+    }
+  ]
+}

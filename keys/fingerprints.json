@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "catalog_signing": {
+    "algorithm": "ECDSA-P256-SHA256",
+    "spki_sha256": "60519055ec7df3ec2b62fb82cb0eec1c47ec9aebd3af0f495d7fdc641a107dab"
+  },
+  "rom_encryption": {
+    "algorithm": "RSA-3072-PKCS1-v1_5",
+    "spki_sha256": "95de90702a3492bf247e4cde7951889240ab45f2891d724701be1a8ed39005c1"
+  }
+}
