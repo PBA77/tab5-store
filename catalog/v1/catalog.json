@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "sequence": 6,
+  "sequence": 7,
   "target": "m5stack-tab5-p4",
   "layout": "tab5-16m-v1",
   "launcher_api": 1,
@@ -52,13 +52,13 @@
     {
       "id": "launcher-updater",
       "name": "TabOS Launcher Updater",
-      "version": "1.0.0",
-      "url": "https://raw.githubusercontent.com/PBA77/tab5-store/main/roms/launcher-updater/1.0.0.bin.enc",
+      "version": "1.0.1",
+      "url": "https://raw.githubusercontent.com/PBA77/tab5-store/main/roms/launcher-updater/1.0.1.bin.enc",
       "encryption": "esp-encrypted-img-rsa-v1",
-      "download_size": 2222512,
-      "download_sha256": "7af540a0264cb7bd4e155fc701f4394226bed16809ec92dcfdd325b23a6e7425",
-      "image_size": 2222000,
-      "image_sha256": "165cba832fc3d10251ff23f143911df095bb4040538b72acfadddb2293588dc3"
+      "download_size": 2225744,
+      "download_sha256": "129bc47cbaa25ce23650d1ce43c8bbd45a7a6f655a6fb1edc403da176757b0a8",
+      "image_size": 2225232,
+      "image_sha256": "5163dbbd6767b4d649a975090f50f4cc355a195e83521ca089185054c891d379"
     }
   ]
 }
