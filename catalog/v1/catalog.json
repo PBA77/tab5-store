@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "sequence": 2,
+  "sequence": 3,
   "target": "m5stack-tab5-p4",
   "layout": "tab5-16m-v1",
   "launcher_api": 1,
@@ -37,6 +37,17 @@
       "download_sha256": "0779a7bc646ddf7b850c873482a7b6b3a447914b9bc243bdb88aa20b1be67c64",
       "image_size": 819536,
       "image_sha256": "9204a7b08cd6f5456aa915f439c0492eb10bf7c24f4c68421063d8ee7a9bcf6e"
+    },
+    {
+      "id": "magic-frame",
+      "name": "Magic Frame",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/PBA77/tab5-store/main/roms/magic-frame/1.0.0.bin.enc",
+      "encryption": "esp-encrypted-img-rsa-v1",
+      "download_size": 1528928,
+      "download_sha256": "a0967916f70c3fa9f08458b35265c7b805bc1c6063ef40b984b8580f9531a0bb",
+      "image_size": 1528416,
+      "image_sha256": "b9f34ad27db9464e576cae9c241f0dcf66fa6d750ee9d201bf3bd60e5d86a8e8"
     }
   ]
 }
