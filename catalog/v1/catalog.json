@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "sequence": 8,
+  "sequence": 9,
   "target": "m5stack-tab5-p4",
   "layout": "tab5-16m-v1",
   "launcher_api": 1,
@@ -81,6 +81,17 @@
       "download_sha256": "05eec75cd662ce94a2f2161813331272a318b4cbd86058a9afb629ede2d555c5",
       "image_size": 1277968,
       "image_sha256": "ef467499d45dd8b11812ed8833d7e7be90f13b7fc9e7d743b2b753695c2e2c48"
+    },
+    {
+      "id": "weirdo",
+      "name": "Weirdo",
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/PBA77/tab5-store/main/roms/weirdo/1.0.0.bin.enc",
+      "encryption": "esp-encrypted-img-rsa-v1",
+      "download_size": 1303664,
+      "download_sha256": "abffe8a8d5a1247f6d260ae5870860fbf9a38f842f535ae5846977422d590808",
+      "image_size": 1303152,
+      "image_sha256": "fe0fbdd24bf48f0c9ace63053cd6515fceb7655a4b7325bb2b3ec67ee88371c2"
     }
   ]
 }
